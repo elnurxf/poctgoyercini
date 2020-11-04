@@ -1,6 +1,6 @@
 {
     "name": "laravel-notification-channels/poctgoyercini",
-    "description": ":package_description",
+    "description": "PoctGoyercini.com Laravel Notification Channel",
     "homepage": "https://github.com/laravel-notification-channels/poctgoyercini",
     "license": "MIT",
     "authors": [
